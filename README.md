@@ -5,7 +5,7 @@ HelloWorld is an app that explored the basics of coding in Android studio. This 
 
 ### App Walk-though 
 
-<img src="http://recordit.co/tnr29KsM3b" width=200><br>
+<img src="http://g.recordit.co/tnr29KsM3b.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
